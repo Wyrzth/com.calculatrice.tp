@@ -1,16 +1,13 @@
 package com.calculatrice.tp.java.controller;
 
-import com.calculatrice.tp.java.model.Calculatrice;
+import com.calculatrice.tp.java.model.Calculator;
 
 public class Controller {
 	
 	public static void main(String[] args) {
 		
-		
-		 System.out.println(Calculatrice.addition(2.47,536));
-		 System.out.println(Calculatrice.multiply(2.47,536));
 		 
-		 Test test = new Test();
+		 TestCases test = new TestCases();
 		 test.testAddition();
 		 test.testMultiply();
 	
