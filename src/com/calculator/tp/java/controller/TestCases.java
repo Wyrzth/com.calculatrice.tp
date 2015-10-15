@@ -1,7 +1,9 @@
-package com.calculatrice.tp.java.controller;
+package com.calculator.tp.java.controller;
 
-import com.calculatrice.tp.java.model.Calculator;
 import static org.junit.Assert.assertEquals;
+
+import com.calculator.tp.java.model.Calculator;
+
 import org.junit.Before;
 import org.junit.Test;
 

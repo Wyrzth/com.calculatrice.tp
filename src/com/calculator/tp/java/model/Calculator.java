@@ -1,4 +1,4 @@
-package com.calculatrice.tp.java.model;
+package com.calculator.tp.java.model;
 
 public class Calculator {
   private double doubleA;

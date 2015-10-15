@@ -1,6 +1,6 @@
-package com.calculatrice.tp.java.controller;
+package com.calculator.tp.java.controller;
 
-import com.calculatrice.tp.java.model.Calculator;
+import com.calculator.tp.java.model.Calculator;
 
 public class Controller {
 
